@@ -29,7 +29,7 @@
 
   <p class="parrafo">Soy un parrafo</p>
 
-2.2 Obligatorio -> Es obligario porque sin su ruta de la imagen no tendria sentido poner esa etiqueta
+2.2 Obligatorio -> Es obligario porque sin una ruta , la imagen no tendria sentido poner esa etiqueta
 <img src="ruta" alt="mensaje de accesibilidad"  />
 
 3. Encabezados -> Los encabezados son importantes para poner titulo o subtitulos , y tienen un orden la cual es importante seguir . Tenemos 6 tipos de encabezados
