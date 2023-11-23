@@ -21,7 +21,7 @@
 
    -NOTA : Pues tanto como etiqueta de linea y bloque lo puedes modificar con CSS , tanto como un elemento de linea lo puedes convertir en bloque y viceversa
 
-2. Pueden tener atributos -> Los atributos pues añaden informacion adicional a la etiqueta , es muy importante en algunas etiquetas es necesario tener atributo para que funcione correctamente , como tambien pueden ser no necesarios en algunas etiquetas
+2. Pueden tener atributos -> Los atributos pues añaden informacion adicional a la etiqueta , es muy importante en algunas etiquetas ya que es necesario tener atributo para que funcione correctamente , como tambien pueden ser no necesarios en algunas etiquetas
 
 <h1 atributo="valorAtributo">Soy un encabezado</h1>
 
