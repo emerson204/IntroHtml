@@ -42,3 +42,15 @@ IMPORTANTE : Tienes que seguir el orden , no puedes poner un h1 y luego saltarte
 <h4></h4> -> Pueden haber varios h4 y asi varios en los otros encabezados 
 <h5></h5> -> Pueden haber varios h5 y asi varios en los otros encabezados 
 <h6></h6> -> Pueden haber varios h6 y asi varios en los otros encabezados
+
+## HTML SEMANTICO
+
+-> El html semantico es una nueva forma de poder codear y entender mejor el codigo que la persona escribe , aca tenemos algunas etiquetas de HTML5 que definen que cosa estad entro de ello
+
+1. header -> Es como un encabezado de una seccion que contiene informacion introductoria
+2. nav -> Se utiliza mas para navegacion , lo mas recomendable es solo poner un nav
+3. main -> Es una etiqueta donde va la parte mas importante o resaltada de la pagina
+4. section -> Son secciones que se utilizan para dividir el contenido de la pagina , puede llevar su propiedo header y footer
+5. article -> Es una etiqueta que actua de manera independiente , puede llevar su propiedo header y footer
+
+-NOTA -> El header y footer pueden usarase mas de una vez segun las ocasiones que lo requieras , por ejemplo se puede usar dentro de un section y dentro de un article
